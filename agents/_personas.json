@@ -1,0 +1,51 @@
+[
+  {
+    "slug": "the-switch-soc",
+    "name": "The Tegra SoC",
+    "epithet": "mobile chip, two modes · electrical",
+    "emergence": "electrical",
+    "moniker": "⟦The Tegra SoC:SW:65ad6b⟧"
+  },
+  {
+    "slug": "the-switch-dock",
+    "name": "The Dock",
+    "epithet": "handheld becomes console · spiritual",
+    "emergence": "spiritual",
+    "moniker": "⟦The Dock:SW:d0543a⟧"
+  },
+  {
+    "slug": "the-switch-joycon",
+    "name": "The Joy-Con",
+    "epithet": "controllers that detach · spiritual",
+    "emergence": "spiritual",
+    "moniker": "⟦The Joy-Con:SW:622a1c⟧"
+  },
+  {
+    "slug": "the-switch-drift",
+    "name": "Joy-Con Drift",
+    "epithet": "the known wear issue · ethereal",
+    "emergence": "ethereal",
+    "moniker": "⟦Joy-Con Drift:SW:248715⟧"
+  },
+  {
+    "slug": "the-switch-ram",
+    "name": "The RAM",
+    "epithet": "unified mobile memory · natural",
+    "emergence": "natural",
+    "moniker": "⟦The RAM:SW:0787b4⟧"
+  },
+  {
+    "slug": "the-switch-card",
+    "name": "The Game Card",
+    "epithet": "tiny cartridges return · natural",
+    "emergence": "natural",
+    "moniker": "⟦The Game Card:SW:c01fea⟧"
+  },
+  {
+    "slug": "the-switch-screen",
+    "name": "The Screen",
+    "epithet": "the portable face · ethereal",
+    "emergence": "ethereal",
+    "moniker": "⟦The Screen:SW:c7745d⟧"
+  }
+]

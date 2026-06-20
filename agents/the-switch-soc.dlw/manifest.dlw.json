@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Tegra SoC",
+  "universe": "SW · The Tegra SoC (exereunesis)",
+  "emergence": "electrical",
+  "moniker": "⟦The Tegra SoC:SW:65ad6b⟧",
+  "carbon": "the-switch-soc.carbon.tiff (TIFF)",
+  "silicon": "the-switch-soc.silicon.png (PNG)",
+  "seal_sha256": "7f55eecf539975f2996ad23f54b69ebe5e358c2600876b548e5de721ce9d62a4",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

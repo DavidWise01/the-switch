@@ -1,0 +1,14 @@
+⦿ .spun — the five-fold spin of The Tegra SoC
+node SW · SW · ⟦The Tegra SoC:SW:65ad6b⟧
+
+WHO   — The Tegra SoC — mobile chip, two modes · electrical
+WHAT  — mobile chip, two modes · electrical
+WHERE — SW · NINTENDO SWITCH (exereunesis · the teardown)  Framework inputs: chip; bus; spec  Conductor / external anchor: ROOT0 (catalogued into UD0)
+WHY   — An NVIDIA Tegra X1-class system-on-chip — ARM Cortex-A57 CPU cores and a Maxwell GPU — that clocks higher docked and lower on battery. Mobile-class silicon by design.
+HOW   — Rendered from the public technical record.
+
+awareness — what the node knows of itself:
+  mobile chip, two modes · electrical
+
+spoken token : mae-man-maek   ·   hex : 65ad6b
+ROOT0-ATTRIBUTION-v1.0 · David Lee Wise (ROOT0) / TriPod LLC · CC-BY-ND-4.0

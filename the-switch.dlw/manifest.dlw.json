@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "NINTENDO SWITCH",
+  "universe": "SW · NINTENDO SWITCH (exereunesis · the teardown)",
+  "emergence": "",
+  "moniker": "⟦NINTENDO SWITCH:SW:5bdf79⟧",
+  "carbon": "the-switch.carbon.tiff (TIFF)",
+  "silicon": "the-switch.silicon.png (PNG)",
+  "seal_sha256": "d423a93b5b6bd06386c0b98c1c0a13545a92f65ddb38becfb51c9a099911d537",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

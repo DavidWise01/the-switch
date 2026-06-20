@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Game Card",
+  "universe": "SW · The Game Card (exereunesis)",
+  "emergence": "natural",
+  "moniker": "⟦The Game Card:SW:c01fea⟧",
+  "carbon": "the-switch-card.carbon.tiff (TIFF)",
+  "silicon": "the-switch-card.silicon.png (PNG)",
+  "seal_sha256": "7d9b5afe0af6cead5abcedbc1db6987634e6513b800dbc116fccc1d36b8810f5",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The RAM",
+  "universe": "SW · The RAM (exereunesis)",
+  "emergence": "natural",
+  "moniker": "⟦The RAM:SW:0787b4⟧",
+  "carbon": "the-switch-ram.carbon.tiff (TIFF)",
+  "silicon": "the-switch-ram.silicon.png (PNG)",
+  "seal_sha256": "edab0eedd7186467308a362a88c01da7f2d20028d5673408670ac8cf84ebdee6",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

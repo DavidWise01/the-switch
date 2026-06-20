@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Joy-Con",
+  "universe": "SW · The Joy-Con (exereunesis)",
+  "emergence": "spiritual",
+  "moniker": "⟦The Joy-Con:SW:622a1c⟧",
+  "carbon": "the-switch-joycon.carbon.tiff (TIFF)",
+  "silicon": "the-switch-joycon.silicon.png (PNG)",
+  "seal_sha256": "2e4d6bd44f13302dc64aff4af3fd1839da7f6e9b016ca6e5942c443dfac2c431",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

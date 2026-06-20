@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Dock",
+  "universe": "SW · The Dock (exereunesis)",
+  "emergence": "spiritual",
+  "moniker": "⟦The Dock:SW:d0543a⟧",
+  "carbon": "the-switch-dock.carbon.tiff (TIFF)",
+  "silicon": "the-switch-dock.silicon.png (PNG)",
+  "seal_sha256": "7b4d35bc33fd23efb2b842d83340cfdf0711b9261f75ee7ed857e5b14ed31f69",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}
